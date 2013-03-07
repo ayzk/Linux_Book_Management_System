@@ -1,0 +1,7 @@
+invalid borrow arguments
+0 failed to borrow 0
+0 failed to borrow 0
+1 failed to borrow 0
+1 borrowed 0
+2 failed to borrow 1
+1 borrowed 1
